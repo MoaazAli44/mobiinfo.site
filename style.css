@@ -1,0 +1,443 @@
+/** Start navbar **/
+
+.navbar-inverse .navbar-nav > .active > a,
+ .navbar-inverse .navbar-nav > .active > a:hover,
+  .navbar-inverse .navbar-nav > .active > a:focus
+  {
+    background-color: #E41B17;
+    color:#000;
+    font-size:22px;
+    font-family:Tahoma;
+    font-weight: bold;
+
+  }
+
+.dropdown-menu{
+  background-color: #333;
+  border-top:3px solid #E41B17;
+  min-width:200px;
+}
+
+.navbar-brand{
+  font-size: 32px;
+  line-height: 20px
+}
+
+.navbar-brand > span {
+  font-size: 30px;
+  color:#E41B17;
+  font-weight: bold;
+  font-family: Aria,Tahoma;
+}
+
+.navbar-nav > li > a {
+  padding-top: 17px;
+  padding-bottom: 17px;
+  background-color: #222;
+}
+
+
+.navbar-right .dropdown-menu{
+  right:auto;
+  left:0;
+}
+.dropdown-menu > li > a {
+  color:#FFF;
+
+}
+
+
+
+ .dropdown-menu .divider {
+   background-color:#E41B17
+ }
+
+ .dropdown-menu > li > a {
+   padding: 6px 20px
+}
+
+/** End Navbar **/
+
+/** Start Carousal **/
+.img-responsive,
+ .thumbnail > img,
+ .thumbnail a > img,
+  .carousel-inner > .item > img,
+   .carousel-inner > .item > a > img
+{
+  height: 500px;
+  width:100%;
+
+}
+
+.carousel-caption {
+  background: rgba(0, 0, 0, 0.5);
+  padding:  20px;
+  border-radius: 30px
+}
+
+.carousel-indicators .active {
+  background-color: #E41B17
+}
+
+
+/** End Carousal **/
+
+/*** Start article History of mobile phones ***/
+
+.article h1 {margin-bottom: 30px; margin-top: 70px}
+.article  span {
+    color:#E41B17;
+    font-weight: bold;
+  }
+  .classic-phone {
+    margin-top:35px;
+    background:url('../photo/classicphone.jpg')  ;
+    min-height: 500px;
+    border-radius: 40px;
+    width: 770px;
+    height: 535px;
+    margin-left: 200px;
+    margin-bottom: 40px
+  }
+  .classic-phone .classic {    background: rgba(2,2,2,0.5); min-height: 535px; border-radius: 40px
+}
+
+/*** End article History of mobile phones ***/
+
+/** Start Sources **/
+
+.sources h1 { margin-bottom: 50px}
+.sources .apple img {
+  width: 40px;
+  height:40px;
+
+}
+
+.sources .samsung img{
+  width: 100px;
+  height:55px;
+}
+
+.sources .huawei img {
+  width: 90px;
+  height:70px;
+}
+
+.sources .xiaomi img {
+  width: 40px;
+  height: 40px
+}
+.
+
+.sources div {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.sources .samsung img{
+  margin-bottom: -13px;
+}
+.sources .samsung p{
+  margin-top: -3px;
+}
+
+.sources .huawei img{
+  margin-bottom: -25px;
+}
+.sources .huawei p{
+  margin-top: -7px;
+}
+
+.sources .xiaomi p{
+  margin-top: -4px;
+}
+.sources div h3{
+  font-weight: bold;
+}
+
+.sources div p {
+  line-height: 1.5em
+}
+/** End Sources **/
+
+
+
+.img1 .text{
+  margin-top: 120px;
+}
+
+.img1 .image img { max-height: 600px; margin-top:-60px;}
+
+
+}
+.img1 .text h1 {
+  font-size: 60px;
+
+}
+
+h1,h2 {
+    font-family: arial ;
+    font-weight: bold;
+    line-height: 1.1;
+    color: red;}
+/*******************************/
+.img2 .text{
+  margin-top: 120px;
+}
+
+.img2 .image img { max-height: 400px; margin-top:60px;}
+
+
+}
+ .img2 .text h1 {
+  font-size: 60px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+/*****************************/
+
+.img3 .text{
+  margin-top: 150px;
+}
+
+.img3 .image img { max-height: 400px; max-width: 600px; margin-top:200px;}
+
+
+}
+ .img3 .text h1 {
+  font-size: 60px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+/*****************************/
+
+.img4 .text{
+  margin-top: 150px;
+}
+
+.img4 .image img { max-height: 600px; max-width: 600px; margin-top:100px;}
+
+
+}
+ .img4 .text h1 {
+  font-size: 60px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+/***************************************/
+.img5 .text{
+  margin-top: 150px;
+}
+
+.img5 .image img { max-height: 600px; max-width:600px; margin-top:140px;}
+
+
+}
+.img5 .text h1 {
+  font-size: 60px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+/***************************************/
+.img6 .text{
+  margin-top:150px;
+}
+
+.img6 .image img { max-height: 500px; max-width:600px; margin-top:140px;}
+
+
+}
+.img6 .text h1 {
+  font-size: 60px;
+  font-family: arial;
+  font-weight: bold;
+}
+
+
+/** Start Our Team**/
+.our-team {
+  margin-top:35px;
+  min-height: 500px;
+
+
+
+}
+.our-team video {
+  height: 710px;
+  width: 1349px;
+  margin-bottom: -10px;
+  position: absolute;
+  z-index: 0;
+
+}
+.our-team h1. {
+  padding-top: 30px;
+  padding-bottom: 40px;
+  font-size:50px;
+  font-weight: bold;
+  font-family: arial;
+
+}
+
+.our-team .team {
+  color:#FFF;
+  background: rgba(0, 0, 0, .4);
+  width: 100%;
+  position: absolute;
+  z-index: 1;
+
+}
+.our-team img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom:20px;
+  margin-top: 30px;
+}
+
+.our-team h2,h3 {
+  margin-bottom: 10px;
+  font-family: arial;
+  font-weight: bold;
+  color: #E41B17}
+
+  .our-team i {color: #F00; font-size: 18px; }
+
+
+
+/** End Our Team **/
+
+/** Start Contact-us **/
+.contact-us{
+  margin-top:35px;
+  background:url('../photo/our-team.jpg') fixed;
+  min-height: 500px;
+  background-size: cover;
+}
+
+.contact-us .fields{
+  background: rgba(2, 2, 2, 0.7);
+  color:#FFF;
+  min-height: 500px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.contact-us p{
+  margin-bottom: 40px;
+}
+.contact-us textarea{
+    height: 108px;
+}
+.contact-us input[type="text"],
+.contact-us textarea{
+  background: rgba(82, 78, 78, 0.7);
+  color: #FFF;
+  border: none
+}
+/** End Contact-us **/
+
+/** Start Our Skills **/
+
+.skills { padding-top:40px; padding-bottom: 45px}
+.skills .skills-progress {margin-top:60px}
+.skills .skills-info h3 {margin-top:50px}
+.skills .progress {height: 25px;}
+.skills .progress-bar {line-height: 25px; font-weight: bold;}
+.skills i {color:#000; font-size:14px; }
+
+/** End Our Skills **/
+
+
+
+.footer
+{
+    background:url(../photo/footer.jpg)no-repeat center center fixed;
+    height: 300px;
+    width: 100%;
+    background-size:cover;
+    position: absolute;
+    z-index: 3;
+
+}
+
+.footer .footer-opacity
+
+{
+    background-color:rgba(0,0,0,.3);
+    height: 300px;
+    width:100%;
+}
+
+.footer .footer-opacity i
+{ margin-left: 20px; transition: .8s}
+
+.footer .footer-opacity i:hover {transform: scale(1.5,1.5);}
+
+
+.footer .socialest {text-align: center;}
+
+.footer .socialest h1 { color:#AAA; padding-top:50px; padding-bottom: 30px}
+#face
+{color:#4862A3}
+
+
+#twit{color:#55ACEE}
+
+
+
+#tube{color:#C61B1F}
+
+
+#google{color:#DD4C40}
+
+
+#insta{color:#D39FD7}
+
+.copyright {font-size:26px; font-weight:bold; margin-top:90px; color:#AAA}
+.copyright span{
+  color: #E41B17;
+  font-family:Tahoma;
+}
+
+
+
+/***** Start Media Query *******/
+@media (max-width:768px)  {
+
+  .text { margin-bottom: -150px}
+
+  .img1 .image img {
+    width:400px; margin-top:100px
+  }
+
+  .img2 .image img {
+     margin-top:200px
+  }
+
+  .img3 .image img {
+    width:400px;
+  }
+
+  .img4 .image img {
+    width:400px;
+  }
+
+  .img5 .image img {
+    width:400px;
+  }
+
+  .img6 .image img {
+    width:250px;
+  }
+
+  .copyright {font-size: 24px}
+
+}
+
+
+/***** End Media Query *******/
